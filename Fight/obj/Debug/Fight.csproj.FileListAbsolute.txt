@@ -1,0 +1,10 @@
+F:\CGM\Code\Fight\Fight\bin\Debug\Fight.exe.config
+F:\CGM\Code\Fight\Fight\bin\Debug\Fight.exe
+F:\CGM\Code\Fight\Fight\bin\Debug\Fight.pdb
+F:\CGM\Code\Fight\Fight\obj\Debug\Fight.Form1.resources
+F:\CGM\Code\Fight\Fight\obj\Debug\Fight.Properties.Resources.resources
+F:\CGM\Code\Fight\Fight\obj\Debug\Fight.csproj.GenerateResource.cache
+F:\CGM\Code\Fight\Fight\obj\Debug\Fight.csproj.CoreCompileInputs.cache
+F:\CGM\Code\Fight\Fight\obj\Debug\Fight.exe
+F:\CGM\Code\Fight\Fight\obj\Debug\Fight.pdb
+F:\CGM\Code\Fight\Fight\obj\Debug\Fight.csprojAssemblyReference.cache
